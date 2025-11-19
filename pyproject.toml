@@ -1,0 +1,15 @@
+[project]
+name = "llm-ocr"
+version = "0.1.0"
+description = "Script to convert my handwritten notes to text using gemini 2.5 flash for obsidian"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-generativeai>=0.8.5",
+    "numpy>=2.3.5",
+    "opencv-python>=4.11.0.86",
+    "pillow>=12.0.0",
+    "pyspellchecker>=0.8.3",
+    "python-dotenv>=1.2.1",
+    "scikit-image>=0.25.2",
+]
