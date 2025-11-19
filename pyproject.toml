@@ -1,7 +1,7 @@
 [project]
 name = "llm-ocr"
 version = "0.1.0"
-description = "Script to convert my handwritten notes to text using gemini 2.5 flash for obsidian"
+description = "Script to convert my handwritten notes to text using gemini 2.5 flash lite for obsidian"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
